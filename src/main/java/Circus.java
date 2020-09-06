@@ -12,7 +12,7 @@ public class Circus {
     private static void makeAnimalsTalk() {
         for (Animal a : animals) {
             System.out.println(a);
-            System.out.println(a.speak());
+            System.out.println(a.speak()); //fix bug
         }
     }
 
