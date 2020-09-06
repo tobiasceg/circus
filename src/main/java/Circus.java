@@ -6,7 +6,7 @@ public class Circus {
     private static Equipment[] equipments = {
             new Ladder(50),
             new Cannon(5),
-            new Cannon(100)
+            new Cannon(100) //new cannon 
     };
 
     private static void makeAnimalsTalk() {
