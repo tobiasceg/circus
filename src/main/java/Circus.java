@@ -30,7 +30,7 @@ public class Circus {
                 // here ...
             }
         }
-        return total;
+        return total; // fix bug again
     }
 
     public static void main(String[] args) {
